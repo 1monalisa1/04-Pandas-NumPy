@@ -64,6 +64,7 @@
     * Walmart: 0.115167
     * Kroger: -0.010188
     * Albertsons: 0.125176
+
 ![Grocery-Sharpe](https://github.com/1monalisa1/04-Pandas-NumPy/blob/df5c57c9190c4ac9845f6d2045f1a588a8ef7dab/Resources/04-Grocery-Sharpe.png)
 
 
