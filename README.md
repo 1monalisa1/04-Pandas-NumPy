@@ -1,4 +1,4 @@
-# FinTech • Unit 4 • Pandas & NumPy
+## FinTech • Unit 4 • Pandas & NumPy
 #### Columbia University • Fu Foundation School of Engineering & Applied Science
 ##### Contributor:  Lisa Esberger
 ##### Published:  March 1, 2021
@@ -40,3 +40,22 @@
   * Algo 2: 0.206491
 * *Algorithmic Strategy 1 outperformed all 4 whales and the S&P 500, for its risk adjusted return is the greatest*
 ![Sharpe Ratio](https://github.com/1monalisa1/04-Pandas-NumPy/blob/3775097a0fada12672d48a45e5fe426a9f4c928c/Resources/04-Sharpe-Ratio.png)
+
+#### Grocery Store Portfolio Returns
+* *25% Target (TGT) • 25% Walmart (WMT) • 25% Kroger (KR) • 25% Albertsons (ACI)*
+* *Benchmark: S&P 60 TSX (TX60)
+##### Risk-to-Return (Sharpe Ratio)
+  * Grocery Store Portfolio: 0.125176
+    * Target:  0.197725
+    * Walmart: 0.115167
+    * Kroger: -0.010188
+    * Albertsons: 0.125176
+##### Risk-to-Return (Sharpe Ratio)  
+  * All grocery stocks were positively correlated; some more than others:
+ ![Correlation](https://github.com/1monalisa1/04-Pandas-NumPy/blob/324c4974042733c973e9a7ab5c7f91fd08a6e27b/Resources/04-Correlation.png)
+  
+
+
+
+
+
