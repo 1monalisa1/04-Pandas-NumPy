@@ -3,10 +3,10 @@
 ##### Contributor:  Lisa Esberger
 ##### Published:  March 1, 2021
 
-#### A Whale off the Port(folio)
+### A Whale off the Port(folio)
 
-### Quantitative Analysis 
-## Performance Analysis
+#### Quantitative Analysis 
+##### Performance Analysis
 * *Do any of the portfolios outperform the S&P 500 (38.56%) from 3/3/2015 to 4/23/2019?*
   * Soros Fund Management LLC: 16.46%
   * Paulson & Co Inc: -22.04%
@@ -17,7 +17,7 @@
 * *Berkshire Hathaway Inc and Algo 1 outperformed the S&P 500 during this period.*
 ![Cumulative-Returns](https://github.com/1monalisa1/04-Pandas-NumPy/blob/05e5c55e528ba606a2284fad5fa4cbe869a551e4/Resources/04-Cumulative-Returns.png)
 
-## Risk Analysis
+##### Risk Analysis
 * *Which portfolios are riskier than the S&P 500 (Standard Deviation: 0.008554)?*
   * Soros Fund Management LLC: 0.007895
   * Paulson & Co Inc: 0.007023
