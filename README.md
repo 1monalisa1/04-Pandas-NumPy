@@ -73,5 +73,5 @@
 ![Rolling-Beta](https://github.com/1monalisa1/04-Pandas-NumPy/blob/96beee3dbc40e5347c203cd1d470ccb2e56ab198/Resources/04-Rolling-Beta.png)
 
 ### Moral of the Story
-* *2020 was an 'unprecedented' year in so many ways, so past performance of the market, a sector, a stock - and the risks associated with normal market conditions - were all tested due to the global pandemic. Most metrics tend to normalize over time, however, beta and risk were tough to understand and predict in 2020.
+* *2020 was an 'unprecedented' year in many ways, so past performance of the market, a sector, a stock - and the risks associated with 'normal' market conditions - were all tested due to the global pandemic. Most metrics tend to normalize over time, however, beta and risk were tough to understand and predict in 2020. Even large-cap grocery store stock went haywire.*
 ![Mona-Uncomfortable](https://github.com/1monalisa1/04-Pandas-NumPy/blob/40fec44f2890d5f6a3313ab7f40e86cfbfeebf22/Resources/IMG_1577B54F8244-1.jpeg)
