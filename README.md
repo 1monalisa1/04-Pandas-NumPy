@@ -38,5 +38,5 @@
   ------------------------------------------------
   * Algo 1: 0.546686
   * Algo 2: 0.206491
-* *Algorithmic Strategy 1 outperformed all 4 whales and the S&P 500, for it's risk adjusted return is the greatest*
+* *Algorithmic Strategy 1 outperformed all 4 whales and the S&P 500, for its risk adjusted return is the greatest*
 ![Sharpe Ratio](https://github.com/1monalisa1/04-Pandas-NumPy/blob/3775097a0fada12672d48a45e5fe426a9f4c928c/Resources/04-Sharpe-Ratio.png)
