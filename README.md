@@ -41,20 +41,30 @@
 * *Algorithmic Strategy 1 outperformed all 4 whales and the S&P 500, for its risk adjusted return is the greatest*
 ![Sharpe Ratio](https://github.com/1monalisa1/04-Pandas-NumPy/blob/3775097a0fada12672d48a45e5fe426a9f4c928c/Resources/04-Sharpe-Ratio.png)
 
-#### Grocery Store Portfolio Returns
+### Grocery Store Portfolio Returns
 * *25% Target (TGT) • 25% Walmart (WMT) • 25% Kroger (KR) • 25% Albertsons (ACI)*
 * *Benchmark: S&P 60 TSX (TX60)
+
+##### Asset Correlation  
+  * All grocery stocks were positively correlated; some more than others:
+ ![Correlation](https://github.com/1monalisa1/04-Pandas-NumPy/blob/324c4974042733c973e9a7ab5c7f91fd08a6e27b/Resources/04-Correlation.png)
+ 
+##### Risk (Standard Deviation)
+  * Grocery Store Portfolio: 0.011039
+    * Target:  0.016184
+    * Walmart: 0.014167
+    * Kroger: 0.015290
+    * Albertsons: 0.018980
+* *The Grocery Store Portfolio during 2020 is quite risky and is closest to the level of risk experienced by Tiger Global Management LLC during its earlier time period. This likely has to do with the heightened volatility in the market overall in 2020, so additional analysis would need to be done for a true 'apples-to-apples' comparison*
+![Grocery-sd](https://github.com/1monalisa1/04-Pandas-NumPy/blob/2d8a56826e9b3e08dd358d6d34fc4414373d5b46/Resources/04-Grocery-sd.png)
+
 ##### Risk-to-Return (Sharpe Ratio)
   * Grocery Store Portfolio: 0.125176
     * Target:  0.197725
     * Walmart: 0.115167
     * Kroger: -0.010188
     * Albertsons: 0.125176
-##### Risk-to-Return (Sharpe Ratio)  
-  * All grocery stocks were positively correlated; some more than others:
- ![Correlation](https://github.com/1monalisa1/04-Pandas-NumPy/blob/324c4974042733c973e9a7ab5c7f91fd08a6e27b/Resources/04-Correlation.png)
-  
-
+![Grocery-Sharpe](https://github.com/1monalisa1/04-Pandas-NumPy/blob/df5c57c9190c4ac9845f6d2045f1a588a8ef7dab/Resources/04-Grocery-Sharpe.png)
 
 
 
