@@ -67,6 +67,9 @@
 
 ![Grocery-Sharpe](https://github.com/1monalisa1/04-Pandas-NumPy/blob/df5c57c9190c4ac9845f6d2045f1a588a8ef7dab/Resources/04-Grocery-Sharpe.png)
 
-
+##### Benchmarking Performance (Beta)
+ * *The beta for a stock describes how much the stock's price moves compared to the market (beta = 1).*
+ * In most years, the beta of the these four stocks is usually less than 1, however, the overall market in 2020 experienced heighted levels of volatility.  The chart below shows how the beta of the grocery portfolio varied significantly throughout the year versus the benchmark used, S&P 60 TX.
+![Rolling-Beta](https://github.com/1monalisa1/04-Pandas-NumPy/blob/96beee3dbc40e5347c203cd1d470ccb2e56ab198/Resources/04-Rolling-Beta.png)
 
 
